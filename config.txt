@@ -1,0 +1,4 @@
+read_delay=10
+write_delay=10
+shift_delay=1
+memory_limit=1
