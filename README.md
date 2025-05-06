@@ -3,6 +3,7 @@
 ### Сборка
 
 ```cmake -B build -S . -DBUILD_TESTS=ON```
+
 ```cmake --build build```
 
 ### Тестирование
